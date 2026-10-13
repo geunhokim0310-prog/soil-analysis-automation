@@ -1,0 +1,539 @@
+CASE IDENTIFIER : FINAL-001
+Pb reading -> 196.61 | mg/kg
+Cd reading -> 1.42 | mg/kg
+Portion weighed -> 3.015 | g
+
+material_ref=FINAL-002
+LEAD_RESULT(110.85) [ppm]
+CADMIUM_RESULT(7.17) [ppm]
+ALIQUOT_MASS(3.0) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-003
+Lead measured .... 114.75 mg/kg
+Cadmium measured . 6.04 mg/kg
+Sample portion .... 2.997 g
+
+<entry id='FINAL-004'>
+lead_value=356.34; lead_unit=ppm
+cadmium_value=7.44; cadmium_unit=ppm
+sample_mass=2.989; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-005
+Measured Lead [200.65] mg/kg
+Measured Cadmium [8.62] mg/kg
+Prepared Portion [3.001] grams
+
+CASE IDENTIFIER : FINAL-006
+Pb reading -> 66.79 | mg/kg
+Cd reading -> 2.85 | mg/kg
+Portion weighed -> 3.009 | g
+
+material_ref=FINAL-007
+LEAD_RESULT(100.94) [ppm]
+CADMIUM_RESULT(1.88) [ppm]
+ALIQUOT_MASS(3.01) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-008
+Lead measured .... 158.79 mg/kg
+Cadmium measured . 1.77 mg/kg
+Sample portion .... 2.998 g
+
+<entry id='FINAL-009'>
+lead_value=161.43; lead_unit=ppm
+cadmium_value=6.03; cadmium_unit=ppm
+sample_mass=3.01; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-010
+Measured Lead [104.06] mg/kg
+Measured Cadmium [8.21] mg/kg
+Prepared Portion [2.992] grams
+
+CASE IDENTIFIER : FINAL-011
+Pb reading -> 15.39 | mg/kg
+Cd reading -> 2.53 | mg/kg
+Portion weighed -> 3.012 | g
+
+material_ref=FINAL-012
+LEAD_RESULT(324.65) [ppm]
+CADMIUM_RESULT(2.65) [ppm]
+ALIQUOT_MASS(2.985) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-013
+Lead measured .... 60.39 mg/kg
+Cadmium measured . 6.36 mg/kg
+Sample portion .... 2.997 g
+
+<entry id='FINAL-014'>
+lead_value=267.66; lead_unit=ppm
+cadmium_value=2.19; cadmium_unit=ppm
+sample_mass=3.007; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-015
+Measured Lead [264.46] mg/kg
+Measured Cadmium [6.27] mg/kg
+Prepared Portion [3.003] grams
+
+CASE IDENTIFIER : FINAL-016
+Pb reading -> 54.78 | mg/kg
+Cd reading -> 3.88 | mg/kg
+Portion weighed -> 2.993 | g
+
+material_ref=FINAL-017
+LEAD_RESULT(146.43) [ppm]
+CADMIUM_RESULT(6.57) [ppm]
+ALIQUOT_MASS(2.988) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-018
+Lead measured .... 258.05 mg/kg
+Cadmium measured . 1.82 mg/kg
+Sample portion .... 3.004 g
+
+<entry id='FINAL-019'>
+lead_value=79.45; lead_unit=ppm
+cadmium_value=4.0; cadmium_unit=ppm
+sample_mass=3.003; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-020
+Measured Lead [280.2] mg/kg
+Measured Cadmium [8.07] mg/kg
+Prepared Portion [3.0] grams
+
+CASE IDENTIFIER : FINAL-021
+Pb reading -> 214.41 | mg/kg
+Cd reading -> 0.62 | mg/kg
+Portion weighed -> 3.015 | g
+
+material_ref=FINAL-022
+LEAD_RESULT(336.12) [ppm]
+CADMIUM_RESULT(5.44) [ppm]
+ALIQUOT_MASS(2.997) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-023
+Lead measured .... 167.15 mg/kg
+Cadmium measured . 1.52 mg/kg
+Sample portion .... 2.993 g
+
+<entry id='FINAL-024'>
+lead_value=209.14; lead_unit=ppm
+cadmium_value=7.43; cadmium_unit=ppm
+sample_mass=2.997; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-025
+Measured Lead [72.42] mg/kg
+Measured Cadmium [3.55] mg/kg
+Prepared Portion [2.994] grams
+
+CASE IDENTIFIER : FINAL-026
+Pb reading -> 361.91 | mg/kg
+Cd reading -> 1.2 | mg/kg
+Portion weighed -> 3.002 | g
+
+material_ref=FINAL-027
+LEAD_RESULT(84.79) [ppm]
+CADMIUM_RESULT(8.31) [ppm]
+ALIQUOT_MASS(3.011) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-028
+Lead measured .... 53.92 mg/kg
+Cadmium measured . 5.79 mg/kg
+Sample portion .... 2.99 g
+
+<entry id='FINAL-029'>
+lead_value=368.77; lead_unit=ppm
+cadmium_value=1.1; cadmium_unit=ppm
+sample_mass=3.005; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-030
+Measured Lead [105.41] mg/kg
+Measured Cadmium [5.26] mg/kg
+Prepared Portion [3.0] grams
+
+CASE IDENTIFIER : FINAL-031
+Pb reading -> 246.89 | mg/kg
+Cd reading -> 1.16 | mg/kg
+Portion weighed -> 2.999 | g
+
+material_ref=FINAL-032
+LEAD_RESULT(140.72) [ppm]
+CADMIUM_RESULT(7.56) [ppm]
+ALIQUOT_MASS(2.998) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-033
+Lead measured .... 144.65 mg/kg
+Cadmium measured . 8.77 mg/kg
+Sample portion .... 3.006 g
+
+<entry id='FINAL-034'>
+lead_value=64.34; lead_unit=ppm
+cadmium_value=6.7; cadmium_unit=ppm
+sample_mass=3.008; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-035
+Measured Lead [87.61] mg/kg
+Measured Cadmium [0.51] mg/kg
+Prepared Portion [3.001] grams
+
+CASE IDENTIFIER : FINAL-036
+Pb reading -> 216.46 | mg/kg
+Cd reading -> 2.4 | mg/kg
+Portion weighed -> 2.988 | g
+
+material_ref=FINAL-037
+LEAD_RESULT(347.86) [ppm]
+CADMIUM_RESULT(6.2) [ppm]
+ALIQUOT_MASS(3.01) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-038
+Lead measured .... 211.51 mg/kg
+Cadmium measured . 0.73 mg/kg
+Sample portion .... 2.991 g
+
+<entry id='FINAL-039'>
+lead_value=154.78; lead_unit=ppm
+cadmium_value=2.33; cadmium_unit=ppm
+sample_mass=2.987; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-040
+Measured Lead [98.57] mg/kg
+Measured Cadmium [5.76] mg/kg
+Prepared Portion [3.002] grams
+
+CASE IDENTIFIER : FINAL-041
+Pb reading -> 298.47 | mg/kg
+Cd reading -> 3.53 | mg/kg
+Portion weighed -> 2.996 | g
+
+material_ref=FINAL-042
+LEAD_RESULT(311.73) [ppm]
+CADMIUM_RESULT(1.45) [ppm]
+ALIQUOT_MASS(2.993) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-043
+Lead measured .... 311.53 mg/kg
+Cadmium measured . 8.55 mg/kg
+Sample portion .... 2.997 g
+
+<entry id='FINAL-044'>
+lead_value=289.9; lead_unit=ppm
+cadmium_value=1.19; cadmium_unit=ppm
+sample_mass=3.01; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-045
+Measured Lead [32.29] mg/kg
+Measured Cadmium [4.59] mg/kg
+Prepared Portion [2.993] grams
+
+CASE IDENTIFIER : FINAL-046
+Pb reading -> 367.3 | mg/kg
+Cd reading -> 4.51 | mg/kg
+Portion weighed -> 3.005 | g
+
+material_ref=FINAL-047
+LEAD_RESULT(295.5) [ppm]
+CADMIUM_RESULT(1.87) [ppm]
+ALIQUOT_MASS(3.003) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-048
+Lead measured .... 165.74 mg/kg
+Cadmium measured . 5.3 mg/kg
+Sample portion .... 3.0 g
+
+<entry id='FINAL-049'>
+lead_value=200.22; lead_unit=ppm
+cadmium_value=5.91; cadmium_unit=ppm
+sample_mass=2.993; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-050
+Measured Lead [240.2] mg/kg
+Measured Cadmium [6.63] mg/kg
+Prepared Portion [3.0] grams
+
+CASE IDENTIFIER : FINAL-051
+Pb reading -> 113.86 | mg/kg
+Cd reading -> 0.76 | mg/kg
+Portion weighed -> 3.011 | g
+
+material_ref=FINAL-052
+LEAD_RESULT(369.94) [ppm]
+CADMIUM_RESULT(8.4) [ppm]
+ALIQUOT_MASS(3.004) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-053
+Lead measured .... 78.76 mg/kg
+Cadmium measured . 3.22 mg/kg
+Sample portion .... 3.012 g
+
+<entry id='FINAL-054'>
+lead_value=220.75; lead_unit=ppm
+cadmium_value=7.84; cadmium_unit=ppm
+sample_mass=2.99; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-055
+Measured Lead [345.46] mg/kg
+Measured Cadmium [1.54] mg/kg
+Prepared Portion [3.001] grams
+
+CASE IDENTIFIER : FINAL-056
+Pb reading -> 95.56 | mg/kg
+Cd reading -> 8.05 | mg/kg
+Portion weighed -> 2.994 | g
+
+material_ref=FINAL-057
+LEAD_RESULT(368.34) [ppm]
+CADMIUM_RESULT(1.55) [ppm]
+ALIQUOT_MASS(2.985) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-058
+Lead measured .... 145.83 mg/kg
+Cadmium measured . 6.5 mg/kg
+Sample portion .... 3.011 g
+
+<entry id='FINAL-059'>
+lead_value=357.46; lead_unit=ppm
+cadmium_value=0.78; cadmium_unit=ppm
+sample_mass=2.996; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-060
+Measured Lead [377.09] mg/kg
+Measured Cadmium [7.11] mg/kg
+Prepared Portion [3.005] grams
+
+CASE IDENTIFIER : FINAL-061
+Pb reading -> 362.81 | mg/kg
+Cd reading -> 5.96 | mg/kg
+Portion weighed -> 3.004 | g
+
+material_ref=FINAL-062
+LEAD_RESULT(334.72) [ppm]
+CADMIUM_RESULT(2.19) [ppm]
+ALIQUOT_MASS(3.001) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-063
+Lead measured .... 22.4 mg/kg
+Cadmium measured . 1.12 mg/kg
+Sample portion .... 2.993 g
+
+<entry id='FINAL-064'>
+lead_value=268.66; lead_unit=ppm
+cadmium_value=1.47; cadmium_unit=ppm
+sample_mass=2.998; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-065
+Measured Lead [99.49] mg/kg
+Measured Cadmium [5.22] mg/kg
+Prepared Portion [3.002] grams
+
+CASE IDENTIFIER : FINAL-066
+Pb reading -> 112.29 | mg/kg
+Cd reading -> 1.58 | mg/kg
+Portion weighed -> 2.99 | g
+
+material_ref=FINAL-067
+LEAD_RESULT(261.91) [ppm]
+CADMIUM_RESULT(2.46) [ppm]
+ALIQUOT_MASS(3.015) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-068
+Lead measured .... 15.41 mg/kg
+Cadmium measured . 1.04 mg/kg
+Sample portion .... 2.986 g
+
+<entry id='FINAL-069'>
+lead_value=269.05; lead_unit=ppm
+cadmium_value=7.02; cadmium_unit=ppm
+sample_mass=2.988; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-070
+Measured Lead [165.85] mg/kg
+Measured Cadmium [8.8] mg/kg
+Prepared Portion [2.998] grams
+
+CASE IDENTIFIER : FINAL-071
+Pb reading -> 339.9 | mg/kg
+Cd reading -> 3.15 | mg/kg
+Portion weighed -> 3.006 | g
+
+material_ref=FINAL-072
+LEAD_RESULT(70.77) [ppm]
+CADMIUM_RESULT(6.11) [ppm]
+ALIQUOT_MASS(3.008) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-073
+Lead measured .... 277.84 mg/kg
+Cadmium measured . 3.66 mg/kg
+Sample portion .... 2.992 g
+
+<entry id='FINAL-074'>
+lead_value=203.13; lead_unit=ppm
+cadmium_value=7.84; cadmium_unit=ppm
+sample_mass=2.991; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-075
+Measured Lead [287.16] mg/kg
+Measured Cadmium [7.08] mg/kg
+Prepared Portion [3.008] grams
+
+CASE IDENTIFIER : FINAL-076
+Pb reading -> 139.11 | mg/kg
+Cd reading -> 5.22 | mg/kg
+Portion weighed -> 3.013 | g
+
+material_ref=FINAL-077
+LEAD_RESULT(202.11) [ppm]
+CADMIUM_RESULT(6.64) [ppm]
+ALIQUOT_MASS(2.987) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-078
+Lead measured .... 179.37 mg/kg
+Cadmium measured . 3.15 mg/kg
+Sample portion .... 3.01 g
+
+<entry id='FINAL-079'>
+lead_value=92.41; lead_unit=ppm
+cadmium_value=1.01; cadmium_unit=ppm
+sample_mass=3.004; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-080
+Measured Lead [99.79] mg/kg
+Measured Cadmium [3.75] mg/kg
+Prepared Portion [2.992] grams
+
+CASE IDENTIFIER : FINAL-081
+Pb reading -> 167.77 | mg/kg
+Cd reading -> 1.64 | mg/kg
+Portion weighed -> 2.988 | g
+
+material_ref=FINAL-082
+LEAD_RESULT(361.04) [ppm]
+CADMIUM_RESULT(7.7) [ppm]
+ALIQUOT_MASS(3.007) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-083
+Lead measured .... 230.37 mg/kg
+Cadmium measured . 2.36 mg/kg
+Sample portion .... 2.993 g
+
+<entry id='FINAL-084'>
+lead_value=379.53; lead_unit=ppm
+cadmium_value=2.81; cadmium_unit=ppm
+sample_mass=2.998; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-085
+Measured Lead [196.77] mg/kg
+Measured Cadmium [1.74] mg/kg
+Prepared Portion [3.015] grams
+
+CASE IDENTIFIER : FINAL-086
+Pb reading -> 312.27 | mg/kg
+Cd reading -> 7.17 | mg/kg
+Portion weighed -> 2.993 | g
+
+material_ref=FINAL-087
+LEAD_RESULT(318.21) [ppm]
+CADMIUM_RESULT(1.92) [ppm]
+ALIQUOT_MASS(3.01) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-088
+Lead measured .... 29.74 mg/kg
+Cadmium measured . 1.93 mg/kg
+Sample portion .... 2.989 g
+
+<entry id='FINAL-089'>
+lead_value=15.64; lead_unit=ppm
+cadmium_value=8.79; cadmium_unit=ppm
+sample_mass=2.992; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-090
+Measured Lead [47.75] mg/kg
+Measured Cadmium [8.82] mg/kg
+Prepared Portion [3.005] grams
+
+CASE IDENTIFIER : FINAL-091
+Pb reading -> 370.86 | mg/kg
+Cd reading -> 2.78 | mg/kg
+Portion weighed -> 3.014 | g
+
+material_ref=FINAL-092
+LEAD_RESULT(148.72) [ppm]
+CADMIUM_RESULT(6.6) [ppm]
+ALIQUOT_MASS(2.998) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-093
+Lead measured .... 88.52 mg/kg
+Cadmium measured . 6.91 mg/kg
+Sample portion .... 3.012 g
+
+<entry id='FINAL-094'>
+lead_value=374.97; lead_unit=ppm
+cadmium_value=1.51; cadmium_unit=ppm
+sample_mass=2.99; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-095
+Measured Lead [37.41] mg/kg
+Measured Cadmium [8.03] mg/kg
+Prepared Portion [3.011] grams
+
+CASE IDENTIFIER : FINAL-096
+Pb reading -> 78.73 | mg/kg
+Cd reading -> 3.56 | mg/kg
+Portion weighed -> 3.011 | g
+
+material_ref=FINAL-097
+LEAD_RESULT(315.15) [ppm]
+CADMIUM_RESULT(3.97) [ppm]
+ALIQUOT_MASS(2.995) [gram]
+
+=== METAL ANALYSIS ===
+BOTTLE REF .... FINAL-098
+Lead measured .... 365.24 mg/kg
+Cadmium measured . 8.58 mg/kg
+Sample portion .... 2.998 g
+
+<entry id='FINAL-099'>
+lead_value=216.09; lead_unit=ppm
+cadmium_value=4.29; cadmium_unit=ppm
+sample_mass=3.01; mass_unit=g
+</entry>
+
+Container Tag :: FINAL-100
+Measured Lead [170.63] mg/kg
+Measured Cadmium [4.51] mg/kg
+Prepared Portion [2.996] grams

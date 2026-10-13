@@ -1,0 +1,549 @@
+Sample ID: AI-001
+Pb: 59.31 mg/kg
+Cd: 4.27 mg/kg
+Weight: 3.0 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-002
+Lead(Pb) : 303.8 ppm
+Cadmium(Cd) : 1.27 ppm
+Sample Weight = 2.994 gram
+
+--- Analysis Report ---
+ID => AI-003
+Pb concentration = 218.34 mg/kg
+Cd concentration = 4.67 mg/kg
+Weight(g) = 3.006
+
+Sample: AI-004
+Element Pb = 200.78 mg/kg
+Element Cd = 5.98 mg/kg
+Weighed Mass = 3.005 g
+
+Sample ID: AI-005
+Pb: 267.84 mg/kg
+Cd: 4.9 mg/kg
+Weight: 2.995 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-006
+Lead(Pb) : 222.69 ppm
+Cadmium(Cd) : 1.33 ppm
+Sample Weight = 3.006 gram
+
+--- Analysis Report ---
+ID => AI-007
+Pb concentration = 168.39 mg/kg
+Cd concentration = 6.61 mg/kg
+Weight(g) = 3.004
+
+Sample: AI-008
+Element Pb = 244.2 mg/kg
+Element Cd = 2.08 mg/kg
+Weighed Mass = 2.995 g
+
+Sample ID: AI-009
+Pb: 343.37 mg/kg
+Cd: 7.47 mg/kg
+Weight: 3.006 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-010
+Lead(Pb) : 349.89 ppm
+Cadmium(Cd) : 4.35 ppm
+Sample Weight = 2.992 gram
+
+--- Analysis Report ---
+ID => AI-011
+Pb concentration = 132.33 mg/kg
+Cd concentration = 4.68 mg/kg
+Weight(g) = 2.996
+
+Sample: AI-012
+Element Pb = 170.96 mg/kg
+Element Cd = 7.07 mg/kg
+Weighed Mass = 3.004 g
+
+Sample ID: AI-013
+Pb: 210.55 mg/kg
+Cd: 0.69 mg/kg
+Weight: 3.004 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-014
+Lead(Pb) : 139.97 ppm
+Cadmium(Cd) : 3.67 ppm
+Sample Weight = 2.998 gram
+
+--- Analysis Report ---
+ID => AI-015
+Pb concentration = 213.29 mg/kg
+Cd concentration = 4.24 mg/kg
+Weight(g) = 2.992
+
+Sample: AI-016
+Element Pb = 187.1 mg/kg
+Element Cd = 6.13 mg/kg
+Weighed Mass = 3.002 g
+
+Sample ID: AI-017
+Pb: 182.04 mg/kg
+Cd: 7.38 mg/kg
+Weight: 2.995 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-018
+Lead(Pb) : 158.59 ppm
+Cadmium(Cd) : 7.45 ppm
+Sample Weight = 3.0 gram
+
+--- Analysis Report ---
+ID => AI-019
+Pb concentration = 190.94 mg/kg
+Cd concentration = 0.69 mg/kg
+Weight(g) = 2.994
+
+Sample: AI-020
+Element Pb = 62.57 mg/kg
+Element Cd = 0.87 mg/kg
+Weighed Mass = 3.004 g
+
+Sample ID: AI-021
+Pb: 312.65 mg/kg
+Cd: 1.27 mg/kg
+Weight: 3.002 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-022
+Lead(Pb) : 175.11 ppm
+Cadmium(Cd) : 4.12 ppm
+Sample Weight = 2.995 gram
+
+--- Analysis Report ---
+ID => AI-023
+Pb concentration = 312.35 mg/kg
+Cd concentration = 5.2 mg/kg
+Weight(g) = 2.999
+
+Sample: AI-024
+Element Pb = 174.9 mg/kg
+Element Cd = 7.47 mg/kg
+Weighed Mass = 3.01 g
+
+Sample ID: AI-025
+Pb: 200.06 mg/kg
+Cd: 4.7 mg/kg
+Weight: 3.003 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-026
+Lead(Pb) : 121.52 ppm
+Cadmium(Cd) : 6.5 ppm
+Sample Weight = 3.0 gram
+
+--- Analysis Report ---
+ID => AI-027
+Pb concentration = 178.03 mg/kg
+Cd concentration = 7.13 mg/kg
+Weight(g) = 2.999
+
+Sample: AI-028
+Element Pb = 117.14 mg/kg
+Element Cd = 2.52 mg/kg
+Weighed Mass = 2.991 g
+
+Sample ID: AI-029
+Pb: 236.36 mg/kg
+Cd: 4.98 mg/kg
+Weight: 2.999 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-030
+Lead(Pb) : 192.55 ppm
+Cadmium(Cd) : 4.17 ppm
+Sample Weight = 3.008 gram
+
+--- Analysis Report ---
+ID => AI-031
+Pb concentration = 105.84 mg/kg
+Cd concentration = 4.14 mg/kg
+Weight(g) = 3.0
+
+Sample: AI-032
+Element Pb = 292.64 mg/kg
+Element Cd = 6.56 mg/kg
+Weighed Mass = 3.001 g
+
+Sample ID: AI-033
+Pb: 319.4 mg/kg
+Cd: 6.74 mg/kg
+Weight: 2.996 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-034
+Lead(Pb) : 322.55 ppm
+Cadmium(Cd) : 1.24 ppm
+Sample Weight = 3.004 gram
+
+--- Analysis Report ---
+ID => AI-035
+Pb concentration = 279.08 mg/kg
+Cd concentration = 4.36 mg/kg
+Weight(g) = 2.999
+
+Sample: AI-036
+Element Pb = 338.54 mg/kg
+Element Cd = 7.75 mg/kg
+Weighed Mass = 3.007 g
+
+Sample ID: AI-037
+Pb: 178.12 mg/kg
+Cd: 0.98 mg/kg
+Weight: 2.995 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-038
+Lead(Pb) : 184.48 ppm
+Cadmium(Cd) : 1.22 ppm
+Sample Weight = 3.005 gram
+
+--- Analysis Report ---
+ID => AI-039
+Pb concentration = 155.73 mg/kg
+Cd concentration = 3.87 mg/kg
+Weight(g) = 2.99
+
+Sample: AI-040
+Element Pb = 20.07 mg/kg
+Element Cd = 4.85 mg/kg
+Weighed Mass = 3.009 g
+
+Sample ID: AI-041
+Pb: 47.41 mg/kg
+Cd: 6.45 mg/kg
+Weight: 2.995 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-042
+Lead(Pb) : 224.95 ppm
+Cadmium(Cd) : 6.14 ppm
+Sample Weight = 3.009 gram
+
+--- Analysis Report ---
+ID => AI-043
+Pb concentration = 240.6 mg/kg
+Cd concentration = 5.27 mg/kg
+Weight(g) = 2.993
+
+Sample: AI-044
+Element Pb = 123.44 mg/kg
+Element Cd = 4.87 mg/kg
+Weighed Mass = 3.005 g
+
+Sample ID: AI-045
+Pb: 333.48 mg/kg
+Cd: 4.19 mg/kg
+Weight: 3.004 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-046
+Lead(Pb) : 64.51 ppm
+Cadmium(Cd) : 2.17 ppm
+Sample Weight = 3.002 gram
+
+--- Analysis Report ---
+ID => AI-047
+Pb concentration = 336.23 mg/kg
+Cd concentration = 7.07 mg/kg
+Weight(g) = 3.0
+
+Sample: AI-048
+Element Pb = 47.86 mg/kg
+Element Cd = 5.51 mg/kg
+Weighed Mass = 3.009 g
+
+Sample ID: AI-049
+Pb: 278.53 mg/kg
+Cd: 7.36 mg/kg
+Weight: 2.996 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-050
+Lead(Pb) : 155.97 ppm
+Cadmium(Cd) : 6.56 ppm
+Sample Weight = 3.0 gram
+
+--- Analysis Report ---
+ID => AI-051
+Pb concentration = 84.91 mg/kg
+Cd concentration = 0.61 mg/kg
+Weight(g) = 2.992
+
+Sample: AI-052
+Element Pb = 312.96 mg/kg
+Element Cd = 0.89 mg/kg
+Weighed Mass = 2.997 g
+
+Sample ID: AI-053
+Pb: 136.62 mg/kg
+Cd: 6.27 mg/kg
+Weight: 2.991 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-054
+Lead(Pb) : 188.43 ppm
+Cadmium(Cd) : 2.96 ppm
+Sample Weight = 2.996 gram
+
+--- Analysis Report ---
+ID => AI-055
+Pb concentration = 127.59 mg/kg
+Cd concentration = 1.41 mg/kg
+Weight(g) = 3.009
+
+Sample: AI-056
+Element Pb = 208.63 mg/kg
+Element Cd = 6.54 mg/kg
+Weighed Mass = 2.993 g
+
+Sample ID: AI-057
+Pb: 191.47 mg/kg
+Cd: 3.75 mg/kg
+Weight: 2.997 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-058
+Lead(Pb) : 217.41 ppm
+Cadmium(Cd) : 5.59 ppm
+Sample Weight = 2.991 gram
+
+--- Analysis Report ---
+ID => AI-059
+Pb concentration = 151.72 mg/kg
+Cd concentration = 1.97 mg/kg
+Weight(g) = 3.008
+
+Sample: AI-060
+Element Pb = 34.93 mg/kg
+Element Cd = 4.59 mg/kg
+Weighed Mass = 3.007 g
+
+Sample ID: AI-061
+Pb: 169.1 mg/kg
+Cd: 6.16 mg/kg
+Weight: 2.994 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-062
+Lead(Pb) : 254.61 ppm
+Cadmium(Cd) : 7.08 ppm
+Sample Weight = 2.993 gram
+
+--- Analysis Report ---
+ID => AI-063
+Pb concentration = 194.88 mg/kg
+Cd concentration = 6.39 mg/kg
+Weight(g) = 3.0
+
+Sample: AI-064
+Element Pb = 335.67 mg/kg
+Element Cd = 1.7 mg/kg
+Weighed Mass = 3.007 g
+
+Sample ID: AI-065
+Pb: 148.69 mg/kg
+Cd: 3.69 mg/kg
+Weight: 2.998 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-066
+Lead(Pb) : 45.96 ppm
+Cadmium(Cd) : 2.79 ppm
+Sample Weight = 2.997 gram
+
+--- Analysis Report ---
+ID => AI-067
+Pb concentration = 106.94 mg/kg
+Cd concentration = 4.23 mg/kg
+Weight(g) = 3.006
+
+Sample: AI-068
+Element Pb = 157.19 mg/kg
+Element Cd = 4.01 mg/kg
+Weighed Mass = 2.997 g
+
+Sample ID: AI-069
+Pb: 179.08 mg/kg
+Cd: 1.4 mg/kg
+Weight: 3.006 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-070
+Lead(Pb) : 282.91 ppm
+Cadmium(Cd) : 6.62 ppm
+Sample Weight = 3.007 gram
+
+--- Analysis Report ---
+ID => AI-071
+Pb concentration = 96.34 mg/kg
+Cd concentration = 7.65 mg/kg
+Weight(g) = 3.008
+
+Sample: AI-072
+Element Pb = 233.07 mg/kg
+Element Cd = 3.56 mg/kg
+Weighed Mass = 3.006 g
+
+Sample ID: AI-073
+Pb: 300.33 mg/kg
+Cd: 5.53 mg/kg
+Weight: 3.009 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-074
+Lead(Pb) : 136.14 ppm
+Cadmium(Cd) : 1.68 ppm
+Sample Weight = 3.001 gram
+
+--- Analysis Report ---
+ID => AI-075
+Pb concentration = 208.87 mg/kg
+Cd concentration = 4.54 mg/kg
+Weight(g) = 2.992
+
+Sample: AI-076
+Element Pb = 256.28 mg/kg
+Element Cd = 4.67 mg/kg
+Weighed Mass = 3.001 g
+
+Sample ID: AI-077
+Pb: 90.76 mg/kg
+Cd: 2.71 mg/kg
+Weight: 2.995 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-078
+Lead(Pb) : 203.39 ppm
+Cadmium(Cd) : 1.26 ppm
+Sample Weight = 2.995 gram
+
+--- Analysis Report ---
+ID => AI-079
+Pb concentration = 335.11 mg/kg
+Cd concentration = 1.78 mg/kg
+Weight(g) = 3.004
+
+Sample: AI-080
+Element Pb = 270.51 mg/kg
+Element Cd = 5.92 mg/kg
+Weighed Mass = 2.994 g
+
+Sample ID: AI-081
+Pb: 227.93 mg/kg
+Cd: 4.3 mg/kg
+Weight: 2.996 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-082
+Lead(Pb) : 296.34 ppm
+Cadmium(Cd) : 2.68 ppm
+Sample Weight = 2.996 gram
+
+--- Analysis Report ---
+ID => AI-083
+Pb concentration = 106.08 mg/kg
+Cd concentration = 0.97 mg/kg
+Weight(g) = 2.998
+
+Sample: AI-084
+Element Pb = 316.36 mg/kg
+Element Cd = 6.33 mg/kg
+Weighed Mass = 2.998 g
+
+Sample ID: AI-085
+Pb: 25.09 mg/kg
+Cd: 1.22 mg/kg
+Weight: 2.99 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-086
+Lead(Pb) : 60.6 ppm
+Cadmium(Cd) : 5.64 ppm
+Sample Weight = 3.002 gram
+
+--- Analysis Report ---
+ID => AI-087
+Pb concentration = 328.92 mg/kg
+Cd concentration = 3.13 mg/kg
+Weight(g) = 3.006
+
+Sample: AI-088
+Element Pb = 220.39 mg/kg
+Element Cd = 5.41 mg/kg
+Weighed Mass = 3.002 g
+
+Sample ID: AI-089
+Pb: 325.17 mg/kg
+Cd: 2.87 mg/kg
+Weight: 2.994 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-090
+Lead(Pb) : 172.68 ppm
+Cadmium(Cd) : 7.84 ppm
+Sample Weight = 3.008 gram
+
+--- Analysis Report ---
+ID => AI-091
+Pb concentration = 246.53 mg/kg
+Cd concentration = 6.96 mg/kg
+Weight(g) = 3.004
+
+Sample: AI-092
+Element Pb = 324.83 mg/kg
+Element Cd = 3.42 mg/kg
+Weighed Mass = 3.009 g
+
+Sample ID: AI-093
+Pb: 137.58 mg/kg
+Cd: 6.02 mg/kg
+Weight: 2.999 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-094
+Lead(Pb) : 27.81 ppm
+Cadmium(Cd) : 5.71 ppm
+Sample Weight = 2.996 gram
+
+--- Analysis Report ---
+ID => AI-095
+Pb concentration = 336.23 mg/kg
+Cd concentration = 6.5 mg/kg
+Weight(g) = 2.992
+
+Sample: AI-096
+Element Pb = 273.4 mg/kg
+Element Cd = 2.89 mg/kg
+Weighed Mass = 3.008 g
+
+Sample ID: AI-097
+Pb: 198.91 mg/kg
+Cd: 3.07 mg/kg
+Weight: 3.001 g
+
+[SAMPLE RESULT]
+SAMPLE_NO = AI-098
+Lead(Pb) : 258.15 ppm
+Cadmium(Cd) : 1.34 ppm
+Sample Weight = 3.002 gram
+
+--- Analysis Report ---
+ID => AI-099
+Pb concentration = 59.03 mg/kg
+Cd concentration = 1.44 mg/kg
+Weight(g) = 2.997
+
+Sample: AI-100
+Element Pb = 233.8 mg/kg
+Element Cd = 5.42 mg/kg
+Weighed Mass = 2.991 g

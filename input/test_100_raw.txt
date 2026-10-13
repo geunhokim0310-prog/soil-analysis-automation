@@ -1,0 +1,499 @@
+Sample ID: TEST-001
+Pb: 231.01 mg/kg
+Cd: 0.69 mg/kg
+Weight: 2.996 g
+
+Sample ID: TEST-002
+Pb: 93.66 mg/kg
+Cd: 6.02 mg/kg
+Weight: 3.004 g
+
+Sample ID: TEST-003
+Pb: 314.42 mg/kg
+Cd: 1.15 mg/kg
+Weight: 2.998 g
+
+Sample ID: TEST-004
+Pb: 29.83 mg/kg
+Cd: 2.14 mg/kg
+Weight: 3.0 g
+
+Sample ID: TEST-005
+Pb: 28.76 mg/kg
+Cd: 1.99 mg/kg
+Weight: 3.003 g
+
+Sample ID: TEST-006
+Pb: 199.83 mg/kg
+Cd: 2.15 mg/kg
+Weight: 3.002 g
+
+Sample ID: TEST-007
+Pb: 287.11 mg/kg
+Cd: 0.55 mg/kg
+Weight: 3.006 g
+
+Sample ID: TEST-008
+Pb: 250.39 mg/kg
+Cd: 3.05 mg/kg
+Weight: 2.993 g
+
+Sample ID: TEST-009
+Pb: 335.88 mg/kg
+Cd: 3.02 mg/kg
+Weight: 2.992 g
+
+Sample ID: TEST-010
+Pb: 51.92 mg/kg
+Cd: 6.86 mg/kg
+Weight: 3.002 g
+
+Sample ID: TEST-011
+Pb: 286.35 mg/kg
+Cd: 5.97 mg/kg
+Weight: 3.001 g
+
+Sample ID: TEST-012
+Pb: 341.13 mg/kg
+Cd: 3.34 mg/kg
+Weight: 3.001 g
+
+Sample ID: TEST-013
+Pb: 293.7 mg/kg
+Cd: 5.14 mg/kg
+Weight: 3.007 g
+
+Sample ID: TEST-014
+Pb: 210.53 mg/kg
+Cd: 5.78 mg/kg
+Weight: 2.991 g
+
+Sample ID: TEST-015
+Pb: 95.21 mg/kg
+Cd: 2.67 mg/kg
+Weight: 2.992 g
+
+Sample ID: TEST-016
+Pb: 96.82 mg/kg
+Cd: 1.26 mg/kg
+Weight: 2.996 g
+
+Sample ID: TEST-017
+Pb: 229.78 mg/kg
+Cd: 3.24 mg/kg
+Weight: 2.997 g
+
+Sample ID: TEST-018
+Pb: 89.14 mg/kg
+Cd: 2.5 mg/kg
+Weight: 3.009 g
+
+Sample ID: TEST-019
+Pb: 233.85 mg/kg
+Cd: 5.07 mg/kg
+Weight: 2.993 g
+
+Sample ID: TEST-020
+Pb: 260.61 mg/kg
+Cd: 1.73 mg/kg
+Weight: 2.998 g
+
+Sample ID: TEST-021
+Pb: 346.54 mg/kg
+Cd: 5.3 mg/kg
+Weight: 3.001 g
+
+Sample ID: TEST-022
+Pb: 245.92 mg/kg
+Cd: 6.82 mg/kg
+Weight: 3.006 g
+
+Sample ID: TEST-023
+Pb: 95.59 mg/kg
+Cd: 0.74 mg/kg
+Weight: 2.996 g
+
+Sample ID: TEST-024
+Pb: 108.35 mg/kg
+Cd: 2.08 mg/kg
+Weight: 3.009 g
+
+Sample ID: TEST-025
+Pb: 309.2 mg/kg
+Cd: 2.86 mg/kg
+Weight: 3.003 g
+
+Sample ID: TEST-026
+Pb: 150.56 mg/kg
+Cd: 7.36 mg/kg
+Weight: 2.999 g
+
+Sample ID: TEST-027
+Pb: 107.41 mg/kg
+Cd: 2.35 mg/kg
+Weight: 3.001 g
+
+Sample ID: TEST-028
+Pb: 106.7 mg/kg
+Cd: 4.88 mg/kg
+Weight: 3.008 g
+
+Sample ID: TEST-029
+Pb: 151.8 mg/kg
+Cd: 2.14 mg/kg
+Weight: 3.01 g
+
+Sample ID: TEST-030
+Pb: 188.14 mg/kg
+Cd: 1.18 mg/kg
+Weight: 2.991 g
+
+Sample ID: TEST-031
+Pb: 56.18 mg/kg
+Cd: 5.21 mg/kg
+Weight: 3.006 g
+
+Sample ID: TEST-032
+Pb: 159.31 mg/kg
+Cd: 0.98 mg/kg
+Weight: 2.998 g
+
+Sample ID: TEST-033
+Pb: 348.72 mg/kg
+Cd: 4.47 mg/kg
+Weight: 3.009 g
+
+Sample ID: TEST-034
+Pb: 304.06 mg/kg
+Cd: 0.59 mg/kg
+Weight: 3.004 g
+
+Sample ID: TEST-035
+Pb: 244.96 mg/kg
+Cd: 4.53 mg/kg
+Weight: 2.995 g
+
+Sample ID: TEST-036
+Pb: 231.52 mg/kg
+Cd: 1.34 mg/kg
+Weight: 2.999 g
+
+Sample ID: TEST-037
+Pb: 169.73 mg/kg
+Cd: 7.65 mg/kg
+Weight: 3.008 g
+
+Sample ID: TEST-038
+Pb: 106.92 mg/kg
+Cd: 4.25 mg/kg
+Weight: 2.994 g
+
+Sample ID: TEST-039
+Pb: 321.17 mg/kg
+Cd: 7.03 mg/kg
+Weight: 2.996 g
+
+Sample ID: TEST-040
+Pb: 230.85 mg/kg
+Cd: 5.07 mg/kg
+Weight: 2.993 g
+
+Sample ID: TEST-041
+Pb: 271.63 mg/kg
+Cd: 4.55 mg/kg
+Weight: 3.006 g
+
+Sample ID: TEST-042
+Pb: 195.02 mg/kg
+Cd: 0.5 mg/kg
+Weight: 2.996 g
+
+Sample ID: TEST-043
+Pb: 26.43 mg/kg
+Cd: 7.47 mg/kg
+Weight: 3.008 g
+
+Sample ID: TEST-044
+Pb: 294.45 mg/kg
+Cd: 2.81 mg/kg
+Weight: 2.991 g
+
+Sample ID: TEST-045
+Pb: 309.74 mg/kg
+Cd: 7.6 mg/kg
+Weight: 2.992 g
+
+Sample ID: TEST-046
+Pb: 180.38 mg/kg
+Cd: 1.02 mg/kg
+Weight: 3.005 g
+
+Sample ID: TEST-047
+Pb: 272.73 mg/kg
+Cd: 1.46 mg/kg
+Weight: 3.0 g
+
+Sample ID: TEST-048
+Pb: 201.44 mg/kg
+Cd: 2.49 mg/kg
+Weight: 3.007 g
+
+Sample ID: TEST-049
+Pb: 159.64 mg/kg
+Cd: 2.09 mg/kg
+Weight: 3.001 g
+
+Sample ID: TEST-050
+Pb: 260.88 mg/kg
+Cd: 2.01 mg/kg
+Weight: 2.996 g
+
+Sample ID: TEST-051
+Pb: 348.4 mg/kg
+Cd: 5.37 mg/kg
+Weight: 2.999 g
+
+Sample ID: TEST-052
+Pb: 190.8 mg/kg
+Cd: 1.41 mg/kg
+Weight: 2.994 g
+
+Sample ID: TEST-053
+Pb: 131.57 mg/kg
+Cd: 4.91 mg/kg
+Weight: 2.995 g
+
+Sample ID: TEST-054
+Pb: 92.67 mg/kg
+Cd: 1.03 mg/kg
+Weight: 3.003 g
+
+Sample ID: TEST-055
+Pb: 95.55 mg/kg
+Cd: 7.29 mg/kg
+Weight: 3.007 g
+
+Sample ID: TEST-056
+Pb: 43.38 mg/kg
+Cd: 2.29 mg/kg
+Weight: 3.003 g
+
+Sample ID: TEST-057
+Pb: 90.7 mg/kg
+Cd: 1.49 mg/kg
+Weight: 3.009 g
+
+Sample ID: TEST-058
+Pb: 208.44 mg/kg
+Cd: 4.05 mg/kg
+Weight: 3.006 g
+
+Sample ID: TEST-059
+Pb: 286.47 mg/kg
+Cd: 1.93 mg/kg
+Weight: 2.992 g
+
+Sample ID: TEST-060
+Pb: 162.25 mg/kg
+Cd: 3.68 mg/kg
+Weight: 2.999 g
+
+Sample ID: TEST-061
+Pb: 260.6 mg/kg
+Cd: 5.55 mg/kg
+Weight: 3.01 g
+
+Sample ID: TEST-062
+Pb: 52.48 mg/kg
+Cd: 3.52 mg/kg
+Weight: 2.997 g
+
+Sample ID: TEST-063
+Pb: 304.35 mg/kg
+Cd: 2.36 mg/kg
+Weight: 2.994 g
+
+Sample ID: TEST-064
+Pb: 168.04 mg/kg
+Cd: 3.66 mg/kg
+Weight: 2.996 g
+
+Sample ID: TEST-065
+Pb: 102.44 mg/kg
+Cd: 7.42 mg/kg
+Weight: 2.999 g
+
+Sample ID: TEST-066
+Pb: 304.25 mg/kg
+Cd: 4.63 mg/kg
+Weight: 2.991 g
+
+Sample ID: TEST-067
+Pb: 349.76 mg/kg
+Cd: 6.77 mg/kg
+Weight: 3.009 g
+
+Sample ID: TEST-068
+Pb: 325.7 mg/kg
+Cd: 6.87 mg/kg
+Weight: 2.993 g
+
+Sample ID: TEST-069
+Pb: 180.26 mg/kg
+Cd: 2.1 mg/kg
+Weight: 2.998 g
+
+Sample ID: TEST-070
+Pb: 39.35 mg/kg
+Cd: 3.34 mg/kg
+Weight: 3.01 g
+
+Sample ID: TEST-071
+Pb: 107.52 mg/kg
+Cd: 6.38 mg/kg
+Weight: 2.999 g
+
+Sample ID: TEST-072
+Pb: 159.59 mg/kg
+Cd: 7.68 mg/kg
+Weight: 3.01 g
+
+Sample ID: TEST-073
+Pb: 203.4 mg/kg
+Cd: 5.89 mg/kg
+Weight: 2.993 g
+
+Sample ID: TEST-074
+Pb: 117.91 mg/kg
+Cd: 7.77 mg/kg
+Weight: 3.002 g
+
+Sample ID: TEST-075
+Pb: 198.92 mg/kg
+Cd: 6.11 mg/kg
+Weight: 2.991 g
+
+Sample ID: TEST-076
+Pb: 212.78 mg/kg
+Cd: 4.27 mg/kg
+Weight: 3.007 g
+
+Sample ID: TEST-077
+Pb: 71.95 mg/kg
+Cd: 7.71 mg/kg
+Weight: 2.992 g
+
+Sample ID: TEST-078
+Pb: 81.32 mg/kg
+Cd: 4.96 mg/kg
+Weight: 3.004 g
+
+Sample ID: TEST-079
+Pb: 97.62 mg/kg
+Cd: 1.4 mg/kg
+Weight: 3.008 g
+
+Sample ID: TEST-080
+Pb: 101.25 mg/kg
+Cd: 4.96 mg/kg
+Weight: 3.002 g
+
+Sample ID: TEST-081
+Pb: 158.34 mg/kg
+Cd: 4.88 mg/kg
+Weight: 3.0 g
+
+Sample ID: TEST-082
+Pb: 328.45 mg/kg
+Cd: 2.03 mg/kg
+Weight: 3.004 g
+
+Sample ID: TEST-083
+Pb: 98.77 mg/kg
+Cd: 3.47 mg/kg
+Weight: 3.003 g
+
+Sample ID: TEST-084
+Pb: 119.0 mg/kg
+Cd: 2.87 mg/kg
+Weight: 3.005 g
+
+Sample ID: TEST-085
+Pb: 43.94 mg/kg
+Cd: 3.94 mg/kg
+Weight: 3.01 g
+
+Sample ID: TEST-086
+Pb: 348.71 mg/kg
+Cd: 1.05 mg/kg
+Weight: 2.994 g
+
+Sample ID: TEST-087
+Pb: 107.52 mg/kg
+Cd: 7.5 mg/kg
+Weight: 3.008 g
+
+Sample ID: TEST-088
+Pb: 310.16 mg/kg
+Cd: 3.27 mg/kg
+Weight: 2.993 g
+
+Sample ID: TEST-089
+Pb: 295.14 mg/kg
+Cd: 5.78 mg/kg
+Weight: 3.002 g
+
+Sample ID: TEST-090
+Pb: 345.79 mg/kg
+Cd: 5.4 mg/kg
+Weight: 2.99 g
+
+Sample ID: TEST-091
+Pb: 289.64 mg/kg
+Cd: 2.75 mg/kg
+Weight: 3.003 g
+
+Sample ID: TEST-092
+Pb: 329.85 mg/kg
+Cd: 1.51 mg/kg
+Weight: 2.992 g
+
+Sample ID: TEST-093
+Pb: 55.32 mg/kg
+Cd: 4.65 mg/kg
+Weight: 2.995 g
+
+Sample ID: TEST-094
+Pb: 219.59 mg/kg
+Cd: 5.88 mg/kg
+Weight: 2.994 g
+
+Sample ID: TEST-095
+Pb: 229.3 mg/kg
+Cd: 2.48 mg/kg
+Weight: 3.0 g
+
+Sample ID: TEST-096
+Pb: 318.76 mg/kg
+Cd: 6.85 mg/kg
+Weight: 2.992 g
+
+Sample ID: TEST-097
+Pb: 159.78 mg/kg
+Cd: 2.58 mg/kg
+Weight: 2.99 g
+
+Sample ID: TEST-098
+Pb: 274.47 mg/kg
+Cd: 5.28 mg/kg
+Weight: 2.995 g
+
+Sample ID: TEST-099
+Pb: 264.61 mg/kg
+Cd: 4.64 mg/kg
+Weight: 2.999 g
+
+Sample ID: TEST-100
+Pb: 23.19 mg/kg
+Cd: 1.06 mg/kg
+Weight: 3.008 g

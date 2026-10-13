@@ -1,0 +1,14 @@
+Sample ID: SOIL-001
+Pb: 82.4 mg/kg
+Cd: 2.1 mg/kg
+Weight: 3.000 g
+
+Sample ID: SOIL-002
+Pb: 245.7 mg/kg
+Cd: 5.3 mg/kg
+Weight: 3.001 g
+
+Sample ID: SOIL-003
+Pb: 120.5 mg/kg
+Cd: 1.8 mg/kg
+Weight: 2.999 g

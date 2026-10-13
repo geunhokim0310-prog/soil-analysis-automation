@@ -1,0 +1,16 @@
+[SAMPLE RESULT]
+SAMPLE_NO = FORMAT-001
+Lead(Pb) : 82.40 ppm
+Cadmium(Cd) : 2.10 ppm
+Sample Weight = 3.000 gram
+
+--- Analysis Report ---
+ID => FORMAT-002
+Pb concentration = 245.70 mg/kg
+Cd concentration = 5.30 mg/kg
+Weight(g) = 3.001
+
+Sample: FORMAT-003
+Element Pb = 120.50 mg/kg
+Element Cd = 1.80 mg/kg
+Weighed Mass = 2.999 g

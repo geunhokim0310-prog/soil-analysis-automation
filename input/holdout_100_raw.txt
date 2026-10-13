@@ -1,0 +1,539 @@
+REPORT NO. HOLD-001
+Lead result........95.68 mg/kg
+Cadmium result.....3.84 mg/kg
+Mass used..........2.997 g
+
+Specimen = HOLD-002
+Metal Pb [mg/kg] 109.05
+Metal Cd [mg/kg] 3.02
+Initial mass [g] 3.005
+
+LAB CODE :: HOLD-003
+LEAD ASSAY :: 324.49 ppm
+CADMIUM ASSAY :: 7.34 ppm
+TEST MASS :: 3.002 gram
+
+Record#HOLD-004
+Pb-value=148.57; unit=mg/kg
+Cd-value=2.67; unit=mg/kg
+Mass-value=3.01; unit=g
+
+<SoilRecord>
+Code HOLD-005
+Lead 326.64 ppm
+Cadmium 5.69 ppm
+Mass 3.008 grams
+</SoilRecord>
+
+REPORT NO. HOLD-006
+Lead result........54.18 mg/kg
+Cadmium result.....6.05 mg/kg
+Mass used..........3.009 g
+
+Specimen = HOLD-007
+Metal Pb [mg/kg] 20.41
+Metal Cd [mg/kg] 5.32
+Initial mass [g] 2.997
+
+LAB CODE :: HOLD-008
+LEAD ASSAY :: 212.87 ppm
+CADMIUM ASSAY :: 1.3 ppm
+TEST MASS :: 3.003 gram
+
+Record#HOLD-009
+Pb-value=89.2; unit=mg/kg
+Cd-value=4.26; unit=mg/kg
+Mass-value=3.006; unit=g
+
+<SoilRecord>
+Code HOLD-010
+Lead 291.33 ppm
+Cadmium 4.9 ppm
+Mass 2.991 grams
+</SoilRecord>
+
+REPORT NO. HOLD-011
+Lead result........221.18 mg/kg
+Cadmium result.....4.82 mg/kg
+Mass used..........2.992 g
+
+Specimen = HOLD-012
+Metal Pb [mg/kg] 200.31
+Metal Cd [mg/kg] 2.56
+Initial mass [g] 3.005
+
+LAB CODE :: HOLD-013
+LEAD ASSAY :: 183.74 ppm
+CADMIUM ASSAY :: 4.61 ppm
+TEST MASS :: 2.993 gram
+
+Record#HOLD-014
+Pb-value=164.92; unit=mg/kg
+Cd-value=2.14; unit=mg/kg
+Mass-value=3.001; unit=g
+
+<SoilRecord>
+Code HOLD-015
+Lead 49.19 ppm
+Cadmium 1.83 ppm
+Mass 3.009 grams
+</SoilRecord>
+
+REPORT NO. HOLD-016
+Lead result........266.04 mg/kg
+Cadmium result.....4.52 mg/kg
+Mass used..........3.008 g
+
+Specimen = HOLD-017
+Metal Pb [mg/kg] 327.19
+Metal Cd [mg/kg] 2.8
+Initial mass [g] 3.01
+
+LAB CODE :: HOLD-018
+LEAD ASSAY :: 347.21 ppm
+CADMIUM ASSAY :: 1.43 ppm
+TEST MASS :: 3.007 gram
+
+Record#HOLD-019
+Pb-value=31.16; unit=mg/kg
+Cd-value=7.82; unit=mg/kg
+Mass-value=3.002; unit=g
+
+<SoilRecord>
+Code HOLD-020
+Lead 107.35 ppm
+Cadmium 2.5 ppm
+Mass 2.99 grams
+</SoilRecord>
+
+REPORT NO. HOLD-021
+Lead result........250.52 mg/kg
+Cadmium result.....6.53 mg/kg
+Mass used..........3.003 g
+
+Specimen = HOLD-022
+Metal Pb [mg/kg] 147.26
+Metal Cd [mg/kg] 5.4
+Initial mass [g] 3.0
+
+LAB CODE :: HOLD-023
+LEAD ASSAY :: 153.98 ppm
+CADMIUM ASSAY :: 3.49 ppm
+TEST MASS :: 2.997 gram
+
+Record#HOLD-024
+Pb-value=243.78; unit=mg/kg
+Cd-value=5.21; unit=mg/kg
+Mass-value=2.997; unit=g
+
+<SoilRecord>
+Code HOLD-025
+Lead 198.7 ppm
+Cadmium 4.3 ppm
+Mass 3.002 grams
+</SoilRecord>
+
+REPORT NO. HOLD-026
+Lead result........37.62 mg/kg
+Cadmium result.....6.66 mg/kg
+Mass used..........2.996 g
+
+Specimen = HOLD-027
+Metal Pb [mg/kg] 211.9
+Metal Cd [mg/kg] 7.49
+Initial mass [g] 3.004
+
+LAB CODE :: HOLD-028
+LEAD ASSAY :: 69.71 ppm
+CADMIUM ASSAY :: 2.66 ppm
+TEST MASS :: 3.003 gram
+
+Record#HOLD-029
+Pb-value=246.01; unit=mg/kg
+Cd-value=7.3; unit=mg/kg
+Mass-value=3.008; unit=g
+
+<SoilRecord>
+Code HOLD-030
+Lead 24.19 ppm
+Cadmium 2.61 ppm
+Mass 2.997 grams
+</SoilRecord>
+
+REPORT NO. HOLD-031
+Lead result........230.92 mg/kg
+Cadmium result.....1.69 mg/kg
+Mass used..........2.996 g
+
+Specimen = HOLD-032
+Metal Pb [mg/kg] 323.94
+Metal Cd [mg/kg] 2.5
+Initial mass [g] 2.999
+
+LAB CODE :: HOLD-033
+LEAD ASSAY :: 316.89 ppm
+CADMIUM ASSAY :: 4.95 ppm
+TEST MASS :: 3.001 gram
+
+Record#HOLD-034
+Pb-value=48.57; unit=mg/kg
+Cd-value=7.96; unit=mg/kg
+Mass-value=2.991; unit=g
+
+<SoilRecord>
+Code HOLD-035
+Lead 52.14 ppm
+Cadmium 7.47 ppm
+Mass 3.002 grams
+</SoilRecord>
+
+REPORT NO. HOLD-036
+Lead result........86.39 mg/kg
+Cadmium result.....1.48 mg/kg
+Mass used..........3.007 g
+
+Specimen = HOLD-037
+Metal Pb [mg/kg] 218.89
+Metal Cd [mg/kg] 3.97
+Initial mass [g] 3.001
+
+LAB CODE :: HOLD-038
+LEAD ASSAY :: 197.97 ppm
+CADMIUM ASSAY :: 6.07 ppm
+TEST MASS :: 2.998 gram
+
+Record#HOLD-039
+Pb-value=23.66; unit=mg/kg
+Cd-value=7.35; unit=mg/kg
+Mass-value=2.993; unit=g
+
+<SoilRecord>
+Code HOLD-040
+Lead 74.52 ppm
+Cadmium 4.23 ppm
+Mass 2.997 grams
+</SoilRecord>
+
+REPORT NO. HOLD-041
+Lead result........109.82 mg/kg
+Cadmium result.....6.47 mg/kg
+Mass used..........3.006 g
+
+Specimen = HOLD-042
+Metal Pb [mg/kg] 235.95
+Metal Cd [mg/kg] 4.02
+Initial mass [g] 2.991
+
+LAB CODE :: HOLD-043
+LEAD ASSAY :: 39.76 ppm
+CADMIUM ASSAY :: 2.58 ppm
+TEST MASS :: 3.007 gram
+
+Record#HOLD-044
+Pb-value=29.3; unit=mg/kg
+Cd-value=5.11; unit=mg/kg
+Mass-value=2.991; unit=g
+
+<SoilRecord>
+Code HOLD-045
+Lead 50.86 ppm
+Cadmium 4.84 ppm
+Mass 3.003 grams
+</SoilRecord>
+
+REPORT NO. HOLD-046
+Lead result........319.72 mg/kg
+Cadmium result.....4.18 mg/kg
+Mass used..........2.994 g
+
+Specimen = HOLD-047
+Metal Pb [mg/kg] 184.22
+Metal Cd [mg/kg] 7.17
+Initial mass [g] 3.001
+
+LAB CODE :: HOLD-048
+LEAD ASSAY :: 127.99 ppm
+CADMIUM ASSAY :: 2.03 ppm
+TEST MASS :: 3.007 gram
+
+Record#HOLD-049
+Pb-value=319.41; unit=mg/kg
+Cd-value=6.95; unit=mg/kg
+Mass-value=2.995; unit=g
+
+<SoilRecord>
+Code HOLD-050
+Lead 316.62 ppm
+Cadmium 3.4 ppm
+Mass 3.003 grams
+</SoilRecord>
+
+REPORT NO. HOLD-051
+Lead result........91.31 mg/kg
+Cadmium result.....7.05 mg/kg
+Mass used..........2.998 g
+
+Specimen = HOLD-052
+Metal Pb [mg/kg] 347.21
+Metal Cd [mg/kg] 4.06
+Initial mass [g] 2.996
+
+LAB CODE :: HOLD-053
+LEAD ASSAY :: 91.18 ppm
+CADMIUM ASSAY :: 0.66 ppm
+TEST MASS :: 2.995 gram
+
+Record#HOLD-054
+Pb-value=195.19; unit=mg/kg
+Cd-value=1.71; unit=mg/kg
+Mass-value=2.998; unit=g
+
+<SoilRecord>
+Code HOLD-055
+Lead 150.28 ppm
+Cadmium 3.83 ppm
+Mass 2.997 grams
+</SoilRecord>
+
+REPORT NO. HOLD-056
+Lead result........267.07 mg/kg
+Cadmium result.....2.01 mg/kg
+Mass used..........2.998 g
+
+Specimen = HOLD-057
+Metal Pb [mg/kg] 294.86
+Metal Cd [mg/kg] 6.31
+Initial mass [g] 3.004
+
+LAB CODE :: HOLD-058
+LEAD ASSAY :: 170.49 ppm
+CADMIUM ASSAY :: 0.84 ppm
+TEST MASS :: 3.002 gram
+
+Record#HOLD-059
+Pb-value=230.67; unit=mg/kg
+Cd-value=2.55; unit=mg/kg
+Mass-value=3.005; unit=g
+
+<SoilRecord>
+Code HOLD-060
+Lead 329.05 ppm
+Cadmium 3.04 ppm
+Mass 3.006 grams
+</SoilRecord>
+
+REPORT NO. HOLD-061
+Lead result........127.99 mg/kg
+Cadmium result.....1.8 mg/kg
+Mass used..........2.991 g
+
+Specimen = HOLD-062
+Metal Pb [mg/kg] 127.27
+Metal Cd [mg/kg] 6.83
+Initial mass [g] 2.997
+
+LAB CODE :: HOLD-063
+LEAD ASSAY :: 80.49 ppm
+CADMIUM ASSAY :: 3.85 ppm
+TEST MASS :: 3.007 gram
+
+Record#HOLD-064
+Pb-value=272.89; unit=mg/kg
+Cd-value=7.82; unit=mg/kg
+Mass-value=3.006; unit=g
+
+<SoilRecord>
+Code HOLD-065
+Lead 59.22 ppm
+Cadmium 6.53 ppm
+Mass 3.0 grams
+</SoilRecord>
+
+REPORT NO. HOLD-066
+Lead result........39.77 mg/kg
+Cadmium result.....7.17 mg/kg
+Mass used..........3.0 g
+
+Specimen = HOLD-067
+Metal Pb [mg/kg] 127.43
+Metal Cd [mg/kg] 5.8
+Initial mass [g] 3.003
+
+LAB CODE :: HOLD-068
+LEAD ASSAY :: 169.19 ppm
+CADMIUM ASSAY :: 4.05 ppm
+TEST MASS :: 2.997 gram
+
+Record#HOLD-069
+Pb-value=88.65; unit=mg/kg
+Cd-value=7.42; unit=mg/kg
+Mass-value=2.99; unit=g
+
+<SoilRecord>
+Code HOLD-070
+Lead 271.75 ppm
+Cadmium 5.65 ppm
+Mass 3.0 grams
+</SoilRecord>
+
+REPORT NO. HOLD-071
+Lead result........316.41 mg/kg
+Cadmium result.....2.29 mg/kg
+Mass used..........3.004 g
+
+Specimen = HOLD-072
+Metal Pb [mg/kg] 209.52
+Metal Cd [mg/kg] 4.17
+Initial mass [g] 3.003
+
+LAB CODE :: HOLD-073
+LEAD ASSAY :: 274.66 ppm
+CADMIUM ASSAY :: 4.89 ppm
+TEST MASS :: 3.0 gram
+
+Record#HOLD-074
+Pb-value=111.18; unit=mg/kg
+Cd-value=5.31; unit=mg/kg
+Mass-value=3.005; unit=g
+
+<SoilRecord>
+Code HOLD-075
+Lead 263.61 ppm
+Cadmium 5.58 ppm
+Mass 2.992 grams
+</SoilRecord>
+
+REPORT NO. HOLD-076
+Lead result........239.07 mg/kg
+Cadmium result.....7.72 mg/kg
+Mass used..........2.99 g
+
+Specimen = HOLD-077
+Metal Pb [mg/kg] 168.19
+Metal Cd [mg/kg] 3.65
+Initial mass [g] 3.003
+
+LAB CODE :: HOLD-078
+LEAD ASSAY :: 297.62 ppm
+CADMIUM ASSAY :: 7.04 ppm
+TEST MASS :: 3.009 gram
+
+Record#HOLD-079
+Pb-value=58.12; unit=mg/kg
+Cd-value=5.25; unit=mg/kg
+Mass-value=2.994; unit=g
+
+<SoilRecord>
+Code HOLD-080
+Lead 179.91 ppm
+Cadmium 1.83 ppm
+Mass 3.003 grams
+</SoilRecord>
+
+REPORT NO. HOLD-081
+Lead result........31.94 mg/kg
+Cadmium result.....7.18 mg/kg
+Mass used..........3.003 g
+
+Specimen = HOLD-082
+Metal Pb [mg/kg] 66.82
+Metal Cd [mg/kg] 6.42
+Initial mass [g] 3.005
+
+LAB CODE :: HOLD-083
+LEAD ASSAY :: 67.75 ppm
+CADMIUM ASSAY :: 1.62 ppm
+TEST MASS :: 3.001 gram
+
+Record#HOLD-084
+Pb-value=160.12; unit=mg/kg
+Cd-value=4.2; unit=mg/kg
+Mass-value=3.001; unit=g
+
+<SoilRecord>
+Code HOLD-085
+Lead 246.81 ppm
+Cadmium 4.92 ppm
+Mass 3.003 grams
+</SoilRecord>
+
+REPORT NO. HOLD-086
+Lead result........317.91 mg/kg
+Cadmium result.....7.99 mg/kg
+Mass used..........3.003 g
+
+Specimen = HOLD-087
+Metal Pb [mg/kg] 131.83
+Metal Cd [mg/kg] 6.39
+Initial mass [g] 2.99
+
+LAB CODE :: HOLD-088
+LEAD ASSAY :: 203.26 ppm
+CADMIUM ASSAY :: 4.57 ppm
+TEST MASS :: 2.995 gram
+
+Record#HOLD-089
+Pb-value=314.8; unit=mg/kg
+Cd-value=5.32; unit=mg/kg
+Mass-value=3.001; unit=g
+
+<SoilRecord>
+Code HOLD-090
+Lead 77.84 ppm
+Cadmium 7.77 ppm
+Mass 2.992 grams
+</SoilRecord>
+
+REPORT NO. HOLD-091
+Lead result........288.47 mg/kg
+Cadmium result.....6.18 mg/kg
+Mass used..........3.005 g
+
+Specimen = HOLD-092
+Metal Pb [mg/kg] 45.76
+Metal Cd [mg/kg] 5.42
+Initial mass [g] 3.01
+
+LAB CODE :: HOLD-093
+LEAD ASSAY :: 281.25 ppm
+CADMIUM ASSAY :: 5.83 ppm
+TEST MASS :: 3.006 gram
+
+Record#HOLD-094
+Pb-value=336.43; unit=mg/kg
+Cd-value=2.11; unit=mg/kg
+Mass-value=3.001; unit=g
+
+<SoilRecord>
+Code HOLD-095
+Lead 340.58 ppm
+Cadmium 1.2 ppm
+Mass 3.008 grams
+</SoilRecord>
+
+REPORT NO. HOLD-096
+Lead result........38.24 mg/kg
+Cadmium result.....0.82 mg/kg
+Mass used..........3.005 g
+
+Specimen = HOLD-097
+Metal Pb [mg/kg] 143.73
+Metal Cd [mg/kg] 4.48
+Initial mass [g] 2.993
+
+LAB CODE :: HOLD-098
+LEAD ASSAY :: 27.3 ppm
+CADMIUM ASSAY :: 5.75 ppm
+TEST MASS :: 3.006 gram
+
+Record#HOLD-099
+Pb-value=314.46; unit=mg/kg
+Cd-value=2.55; unit=mg/kg
+Mass-value=3.01; unit=g
+
+<SoilRecord>
+Code HOLD-100
+Lead 191.3 ppm
+Cadmium 5.43 ppm
+Mass 3.001 grams
+</SoilRecord>

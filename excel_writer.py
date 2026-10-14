@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment
 
@@ -47,6 +49,12 @@ def save_to_excel(results, output_path):
     sheet.column_dimensions["D"].width = 15
     sheet.column_dimensions["E"].width = 18
     sheet.column_dimensions["F"].width = 20
+
+    # 출력 폴더가 없으면 자동 생성
+    Path(output_path).parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
 
     # 엑셀 파일 저장
     workbook.save(output_path)

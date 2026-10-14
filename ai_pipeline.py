@@ -1,6 +1,6 @@
 import json
 
-from ai_parser import parse_with_ai
+from ai_parser_v2 import parse_with_ai
 from unit_normalizer import normalize_units
 from classifier import classify_sample
 from excel_writer import save_to_excel

@@ -409,29 +409,66 @@ soil_analysis_automation/
 
 ---
 
-## 14. 실행 예시
+## 14. 설치 및 실행
 
-### 기본 Python 파이프라인
+### 1) Python 패키지 설치
+
+프로젝트 폴더에서 다음 명령을 실행합니다.
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+### 2) Ollama 모델 준비
+
+본 프로젝트의 AI Parser는 로컬 LLM인 Qwen2.5 3B를 사용합니다.
+
+```powershell
+ollama pull qwen2.5:3b
+```
+
+설치 및 실행 여부는 다음 명령으로 확인할 수 있습니다.
+
+```powershell
+ollama --version
+```
+
+### 3) 기본 Python 파이프라인
+
+고정 형식 RAW DATA를 정규식 Parser로 처리합니다.
 
 ```powershell
 python main.py
 ```
 
-### AI 기반 파이프라인
+### 4) AI 기반 파이프라인
 
-Ollama 및 Qwen2.5 3B가 실행 가능한 환경에서:
+비정형 RAW DATA를 로컬 LLM으로 구조화한 뒤
+Python 검증, 단위 정규화, 기준 비교 및 Excel 저장을 수행합니다.
 
 ```powershell
 python ai_pipeline.py
 ```
 
-### Final Hold-out 검증
+### 5) Final Hold-out 검증
+
+Prompt v2를 동결한 상태에서 생성한
+신규 합성 Hold-out 데이터를 검증합니다.
 
 ```powershell
 python final_validator.py
 ```
 
----
+### 단위 처리 전제
+
+본 프로토타입에서는 농도 데이터를 내부적으로 `mg/kg` 단위로 정규화합니다.
+
+테스트 데이터에서 `ppm`은 **질량 기준 농도라는 전제하에**
+`1 ppm = 1 mg/kg`으로 처리했습니다.
+
+이는 본 합성 프로토타입의 테스트 전제이며,
+실제 운영 데이터에 적용할 경우 원자료 및 시험방법에서 정의한
+단위의 의미를 먼저 확인해야 합니다.
 
 ## 15. 향후 개선 방향
 
